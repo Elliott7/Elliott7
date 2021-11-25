@@ -8,7 +8,10 @@ I'm Elliott, a front end React developer and aspiring full-stack engineer.
 - 📫 You can reach me at: 
 
 
-## Languages:    
+## Languages:  
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/32166124/143375821-fd2e2f99-406f-4f24-b575-792f0ec1ddd0.gif" width="500" height="320" />
+
 <!-- React --><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 <!-- JS --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <!--  HTML --><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

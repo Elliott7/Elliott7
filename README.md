@@ -2,7 +2,7 @@
 
 I'm Elliott, a front end React developer and aspiring full-stack engineer.
 
-- 🔭 I’m currently working on a habit tracking and analyticswebsite whilst improving my React skills
+- 🔭 I’m currently working on a habit tracking and analytics website whilst improving my React skills
 - 🌱 I’m currently learning Node/Express on The Odin Project
 - 💬 Ask me about fpv filming and music production!
 - 📫 You can reach me at: 
@@ -17,13 +17,17 @@ I'm Elliott, a front end React developer and aspiring full-stack engineer.
 <!-- Styled Components --><a href="https://styled-components.com/" target="_blank"> <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled-components" width="40" height="40"/> </a>
 <!-- Pyhton   --><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     
-    
 ## Tools:
 <!-- Linux --><a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a>
 <!-- Git --><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<!-- GitHub --><a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/32166124/143374047-f9e6e36e-a5d6-4f0c-971d-741238d25eb7.png" alt="github" width="40" height="40"/></a>
 <!-- Webpack --><a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a> 
 <!-- Jest --><a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 <!-- Firebase --><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<!-- NPM --><a href="https://www.npmjs.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/32166124/143374951-4a2d4e2a-2fd1-498c-a289-dca4a7f97872.png" alt="npm" width="40" height="40"/></a>
+<!-- Prettier --><a href="https://prettier.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/32166124/143374466-d4bddda0-02fe-410f-bbc7-0c7d5c13a136.png" alt="prettier" width="40" height="40"/></a>
+<!-- Webstorm --><a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://user-images.githubusercontent.com/32166124/143374542-6a6c6af7-5554-424a-a630-8d9f67206d04.png" alt="webstorm" width="40" height="40"/></a>
+
   
   
 ## Learning:

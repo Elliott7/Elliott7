@@ -2,11 +2,10 @@
 
 I'm Elliott, a front end React developer and aspiring full-stack engineer.
 
-- 🔭 I’m currently working on a habit tracking and analytics website whilst improving my React skills
+- 🔭 I’m currently working on improving my React skills
 - 🌱 I’m currently learning Node/Express on The Odin Project
 - 💬 Ask me about fpv filming and music production!
-- 📫 You can reach me at: 
-
+- 📫 You can reach me at: elliottbreadmore7@hotmail.com
 
 ## Languages:  
 
@@ -17,6 +16,7 @@ I'm Elliott, a front end React developer and aspiring full-stack engineer.
 <!--  HTML --><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <!--  CSS --><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
 <!-- SASS --><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<!-- CSS Modules --><a href="https://github.com/css-modules/css-modules" target="_blank"> <img src="https://user-images.githubusercontent.com/32166124/143819987-633162c0-6916-4347-b97d-c509cdc2f557.png" alt="css-modules" width="40" height="40"/> </a>
 <!-- Styled Components --><a href="https://styled-components.com/" target="_blank"> <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled-components" width="40" height="40"/> </a>
 <!-- Pyhton   --><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     

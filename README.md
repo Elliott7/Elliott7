@@ -3,7 +3,6 @@
 I'm Elliott, a front end React developer and aspiring full-stack engineer.
 
 - 🔭 I’m currently working on improving my React skills
-- 🌱 I’m currently learning Node/Express on The Odin Project
 - 💬 Ask me about fpv filming and music production!
 - 📫 You can reach me at: elliottbreadmore7@hotmail.com
 
